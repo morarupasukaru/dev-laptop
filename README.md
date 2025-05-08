@@ -32,3 +32,14 @@
   * [5 grands IDE Raspberry Pi pour les programmeurs et les étudiants](https://technochouette.istocks.club/5-grands-ide-raspberry-pi-pour-les-programmeurs-et-les-etudiants/2021-04-29/)
 * Java
   * [Install Java and Tools](https://www.pi4j.com/prepare/install-java/)
+ 
+## Software
+
+* Browser
+* Texteditor
+* Lecteur musique et vidéo
+* IDE
+* Langage programmation
+  * Java / maven
+  * Python
+  * node / npm 
