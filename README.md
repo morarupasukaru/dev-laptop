@@ -16,6 +16,8 @@
 
 * [Raspberry Pi Documentation](https://www.raspberrypi.com/documentation/)
 * [Install Raspberry Pi Desktop on your PC or Mac](https://projects.raspberrypi.org/en/projects/install-raspberry-pi-desktop/)
+* [Projects to make with Raspberry Pi](https://www.raspberrypi.com/resources/make/)
+* [Projects | Computer coding for kids and teens | Raspberry Pi](https://projects.raspberrypi.org/en)
 
 ## Raspberry Pi Software
 
