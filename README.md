@@ -3,6 +3,9 @@
 *TODO*
 * youtube demo of Raspberry Pi 500 for development
 
+### Test Raspberry Pi OS in virtual box
+
+* https://roboticsbackend.com/install-raspbian-desktop-on-a-virtual-machine-virtualbox/
 
 ## Laptop for hobby development & digital education
 
