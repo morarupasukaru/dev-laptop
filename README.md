@@ -29,6 +29,7 @@
   * [Code Editor | Rasperry Pi](https://editor.raspberrypi.org/en/education) : online editor
   * [Visual Studio Code for the Web](https://code.visualstudio.com/docs/setup/vscode-web) : online ide
   * [Visual Studio Code on Raspberry Pi](https://code.visualstudio.com/docs/setup/raspberry-pi)
+    * [Java Development with VS Code on the Raspberry Pi](https://foojay.io/today/java-development-with-vs-code-on-the-raspberry-pi/)
 * Java
   * [Install Java and Tools](https://www.pi4j.com/prepare/install-java/)
  
