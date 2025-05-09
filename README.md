@@ -38,6 +38,6 @@
 * Lecteur musique et vidéo
 * IDE
 * Langage programmation
-  * Java / maven
+  * Java / maven : [Install Java and Tools](https://www.pi4j.com/prepare/install-java/)
   * Python
-  * node / npm 
+  * node / npm : [How to Install Node.js and npm on Raspberry Pi](https://linuxize.com/post/how-to-install-node-js-on-raspberry-pi/)
