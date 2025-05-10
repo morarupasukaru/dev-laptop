@@ -1,8 +1,11 @@
 # dev-laptop
 
-*TODO*
-* youtube demo of Raspberry Pi 500 for development
+**TODO**
+* test Raspberry Pi OS in virtual box with elca laptop
+* minize disk usage maven, npm -> node as alternative?
+* wait next version of Raspberry Pi 500 having M2.SSD
 
+  
 ### Test Raspberry Pi OS in virtual box
 
 * https://roboticsbackend.com/install-raspbian-desktop-on-a-virtual-machine-virtualbox/
@@ -12,8 +15,6 @@
 1. [Raspberry Pi 500](https://www.raspberrypi.com/products/raspberry-pi-500/)
   * [Raspberry Pi 500: The New Desktop for Every Developer](https://pipwr.com/raspberry-pi-500-the-new-desktop-for-every-developer/)
 3. wait next version of Raspberry Pi 500 having M2.SSD?
-4. 
-
 
 ## Raspberry Pi Documentation
 
